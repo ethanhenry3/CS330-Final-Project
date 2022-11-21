@@ -7,6 +7,8 @@ The purpose of this assignment was to implement Finite Automata concepts in solv
 
 
 
+## Contact 
+Ethan Henry - Twitter: @Ethan_Henry3 - Email: ehenry2@hawk.iit.edu
 
 
 
