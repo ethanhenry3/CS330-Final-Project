@@ -8,9 +8,11 @@ The Java code that you recieved should already be in JAR File Format; therefore 
 
 #### Step 1: Determine if Java is installed on your PC
 To do that, first, launch the Run box by pressing Windows+R. Then, type the following in the box and press Enter: 
-`cmd`
+- `cmd`
+
 In the Command Prompt window that opens, type the following command and press Enter:
-`java -version`
+- `java -version`
+
 If you have java move on to the next step, if not please download java for free on the internet.
 
 #### Step 2: Run JAR Files on Windows 11
@@ -25,4 +27,3 @@ Ethan Henry - Twitter: @Ethan_Henry3 - Email: ehenry2@hawk.iit.edu
 
 
 
-`sdfsdf`
