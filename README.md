@@ -4,7 +4,17 @@ The purpose of this assignment was to implement Finite Automata concepts in solv
 
 ## Build and Run the Executable
 The language I used to build the executable was Java as it is what I am most proficient in. The code is very simplistic and easy to Build and Run.
-The Java code that you recieved should already be in JAR File Format; therefore you do not need to worry about that. 
+The Java code that you recieved should already be in JAR File Format; therefore you do not need to worry about that. The test environments mentioned were with Windows 11, so I will explain how to run the executable under those circumstances.  
+
+#### Step 1: Determine if Java is installed on your PC
+To do that, first, launch the Run box by pressing Windows+R. Then, type the following in the box and press Enter: 
+`cmd`
+In the Command Prompt window that opens, type the following command and press Enter:
+`java -version`
+If you have java move on to the next step, if not please download java for free on the internet.
+
+#### Step 2: Run JAR Files on Windows 11
+To do this, first, open a File Explorer window and locate your JAR file. Then Right-click your JAR file and choose Open With > Java(TM) Platform SE Binary. Your JAR file will launch and you’ll be able to interact with it. And that’s all there is to it.
 
 ## Test Environments
 1. A fresh installation of Ubuntu 22.04 LTS (Jammy Jellyfish)
