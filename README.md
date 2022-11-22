@@ -19,7 +19,7 @@ If you have java move on to the next step, if not please download java for free 
 To do this, first, open a File Explorer window and locate your JAR file. Then Right-click your JAR file and choose Open With > Java(TM) Platform SE Binary. Your JAR file will launch and you’ll be able to interact with it. And that’s all there is to it.
 
 ## Platform Its Been Tested On
-The only platform tas
+The only platform I have tested on is my Mac device as I do not have windows or linux aviable. At the moment I have a jar file that provides a working GUI on my device along with raw code being submitted in my repository.
 
 ## Test Environments
 1. A fresh installation of Ubuntu 22.04 LTS (Jammy Jellyfish)
