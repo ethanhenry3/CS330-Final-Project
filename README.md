@@ -5,8 +5,8 @@ The purpose of this assignment was to implement Finite Automata concepts in solv
 ## Build and Run the Executable
 The language I used to build the executable was Python as it is what I am most proficient in. The code is very simplistic and easy to Build and Run. You mentioned in class the Python code did not need a Build explanation; however, I will do my best to explain it. 
 1. Navigate to the directory
-2. Type 'cd' plus the name of the directory where the file is located
-3. Type 'python3 CS330Project.py' (Python3 may change depending on the python version you have)
+2. Type `cd` plus the name of the directory where the file is located
+3. Type `python3 CS330Project.py` (Python3 may change depending on the python version you have)
 
 
 ## Generate Unit Test Coverage
